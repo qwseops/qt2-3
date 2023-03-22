@@ -117,7 +117,7 @@ to finally unwind.</span>
     </section>
     <section class="u-clearfix u-section-3" id="sec-c1c7">
       <div class="u-clearfix u-sheet u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xl u-valign-middle-xs u-sheet-1">
-        <img class="u-expanded-width-xs u-image u-image-contain u-image-default u-image-1" src="images/112.PNG" alt="" data-image-width="1073" data-image-height="812" data-href="https://vclit.com/fGNTdS">
+        <img class="u-expanded-width-xs u-image u-image-contain u-image-default u-image-1" src="images/112.png" alt="" data-image-width="1073" data-image-height="812" data-href="https://vclit.com/fGNTdS">
       </div>
     </section>
     <section class="u-align-left u-clearfix u-palette-1-dark-2 u-section-4" id="carousel_6625">
